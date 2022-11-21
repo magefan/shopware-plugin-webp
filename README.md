@@ -1,4 +1,4 @@
-# Shopware WebP Plugin
+# [Shopware WebP Plugin](https://magefan.com/shopware/extensions/webp) by Magefan
 
 <a href="https://www.comebackalive.in.ua/donate"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
