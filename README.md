@@ -179,3 +179,6 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 
   ### Magento 2 Point of Sale
   * [Magento 2 POS System](https://magefan.com/magento-pos-system)
+   
+  ### Shopify Apps
+  * [Shopify Login As Customer](https://apps.shopify.com/login-as-customer)
