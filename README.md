@@ -179,6 +179,9 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 
   ### Magento 2 Point of Sale
   * [Magento 2 POS System](https://magefan.com/magento-pos-system)
+  
+   ### Shopware Extensions
+  * [Shopware Blog Extension](https://magefan.com/shopware/extensions/blog)
    
   ### Shopify Apps
   * [Shopify Login As Customer](https://apps.shopify.com/login-as-customer)
