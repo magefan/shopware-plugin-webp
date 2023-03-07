@@ -74,7 +74,7 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="http://blog.demo.magefan.top/blog/">
+        <a href="https://webp.shopware-demo.magefan.top/Clothing/Women/">
           <img
             src="https://cs.magefan.com/version1667491353/frontend/Magefan/new/en_US/images/shopware-homepage.jpg"
             alt="Shopware WebP Extension Storefront Demo"
@@ -83,7 +83,7 @@ Try out our open demo and if you like our extension **please give us some star o
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="http://blog.demo.magefan.top/admin/">
+        <a href="https://webp.shopware-demo.magefan.top/admin#/login">
           <img
             src="https://cs.magefan.com/version1667491353/frontend/Magefan/new/en_US/images/shopware-admin-panel.jpg"
             alt="Shopware WebP Extension Admin Panel Demo"
