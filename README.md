@@ -51,9 +51,9 @@ You can optimize your website with WebP completely with this image optimization 
 ## Documentation
 
 **General**
-* [How to install Shopware WebP Extension](https://magefan.com/shopware/extensions/webp/documentation/installation)
-* [How to update Shopware WebP Extension](https://magefan.com/shopware/extensions/webp/documentation/updating)
-* [How to uninstall Shopware WebP Extension](https://magefan.com/shopware/extensions/webp/documentation/uninstalling)
+* [How to install Shopware WebP Extension?](https://magefan.com/shopware/extensions/webp/documentation/installation)
+* [How to update Shopware WebP Extension?](https://magefan.com/shopware/extensions/webp/documentation/updating)
+* [How to uninstall Shopware WebP Extension?](https://magefan.com/shopware/extensions/webp/documentation/uninstalling)
 
 **Configuration**
 * [How to Convert Images to WebP in Shopware?](https://magefan.com/shopware/extensions/webp/convert-images-to-webp)
