@@ -8,7 +8,7 @@
 
 [Shopware WebP Extension](https://magefan.com/shopware/extensions/webp) is an image optimization solution that allows you to convert images to WebP format automatically with only a few simple settings. You don’t have to do anything once you install the extension ー all of the options are already preset. 
 
-<a href="https://magefan.com/shopware/extensions/webp"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
+<a href="https://magefan.com/shopware/extensions/webp"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/shopware/extensions/webp#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Benefits
 
